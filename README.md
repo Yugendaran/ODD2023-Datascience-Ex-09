@@ -93,7 +93,8 @@ plt.show()
 
 
 ## OUPUT:
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/3a70734d-2a2a-414b-a733-e4634fa0cfd9)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/716adc8b-485d-4252-8c2c-a2ea09311cc9)
+
 
 
 
