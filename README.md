@@ -90,7 +90,7 @@ plt.title("tip amount time of day")
 sns.scatterplot(x="total_bill",y="tip",data=df)
 plt.title("Correlation between Tip Amount and Total Bill Amount")
 plt.show()
-
+```
 
 ## OUPUT
 
