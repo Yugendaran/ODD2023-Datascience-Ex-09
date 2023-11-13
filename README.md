@@ -93,21 +93,8 @@ plt.show()
 
 
 ## OUPUT:
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/8452bf9c-dc0d-408e-a290-f369ff83616d)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/ea2c8c4f-a0c5-4371-a1e7-8a154a32cdb6)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/77e19e58-3174-46a3-b71e-30b36af56d5e)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/7f804742-cfd6-4375-9f9d-7479cf619525)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/152d4d95-1b28-4d9c-8759-739e6d06a118)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/06c2baf1-1cc1-481f-b956-e8b43e8e6b76)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/b47370fa-9482-43ce-aa49-5d511231d576)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/656af492-ef02-4065-a9ea-97146c2c75d9)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/674c473d-b8f6-4457-8004-a8cbf2c8ba68)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/27e45405-7608-47c4-92a4-a6f5275c8483)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/15dbad29-7710-4453-86c8-01b4c4bdb478)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/7ead90b7-8f7d-474a-a9d0-37838f82698f)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/e890df75-ccb1-4e5c-847c-f9b43f44af2b)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/a17a6e2e-24fa-41f4-8a33-afffb750c364)
 
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/6f274004-ad53-49e2-9903-7959b9031caa)
 
 ## Result:
 Thus, Data Visualization on a complex dataset and save the data to a file has been performed successfully.
