@@ -92,11 +92,19 @@ plt.title("Correlation between Tip Amount and Total Bill Amount")
 plt.show()
 ```
 
-## OUPUT
+## OUPUT:
 
-
-
-
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/44b04dbc-7a58-4705-8f1d-90b524857af9)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/04a0cecf-3516-4fd0-9bb8-e0e6480c72e8)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/53b1c53b-d0d5-443c-b9a7-6d050e245da6)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/bd89098f-28f0-47ce-abd1-abc0273f7a21)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/34e8bcc1-0676-4d10-9333-3d5da56c5fc9)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/50b118e0-c3a8-4397-8733-c87136d95d0f)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/a0740b65-63e4-4a2b-acf7-eafba79f597e)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/f7c330c9-dc0e-4cf0-ad0f-4c67465552ef)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/58994992-5bfe-4ffd-89d1-0ba79dc8434b)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/be5429cc-1b02-41d7-8531-ccc369d5a4ca)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/4eb55bea-cd59-4c4a-a15e-0ff09f7e306f)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/d4b36e6f-35bf-46c2-998d-3dbbd860c723)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/98749810-1709-427e-acb8-d5b83795c6ee)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/8d150be7-5abb-4749-a404-8bb8afee30e7)
@@ -104,18 +112,5 @@ plt.show()
 
 ## Result:
 Thus, Data Visualization on a complex dataset and save the data to a file has been performed successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
