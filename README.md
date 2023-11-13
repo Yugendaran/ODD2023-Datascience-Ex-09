@@ -95,8 +95,7 @@ plt.show()
 ## OUPUT:
 
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/74aa0488-c4a2-4460-824d-7871152b27d6)
-
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/44b04dbc-7a58-4705-8f1d-90b524857af9)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/0c1724b2-aa7f-462e-88bc-bde1991d7215)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/04a0cecf-3516-4fd0-9bb8-e0e6480c72e8)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/53b1c53b-d0d5-443c-b9a7-6d050e245da6)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/bd89098f-28f0-47ce-abd1-abc0273f7a21)
