@@ -93,8 +93,8 @@ plt.show()
 
 
 ## OUPUT:
+![Uploading image.png…]()
 
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/6f274004-ad53-49e2-9903-7959b9031caa)
 
 ## Result:
 Thus, Data Visualization on a complex dataset and save the data to a file has been performed successfully.
