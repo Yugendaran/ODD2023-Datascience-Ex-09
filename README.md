@@ -93,7 +93,8 @@ plt.show()
 
 
 ## OUPUT:
-![Uploading image.png…]()
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/3a70734d-2a2a-414b-a733-e4634fa0cfd9)
+
 
 
 ## Result:
