@@ -1,4 +1,4 @@
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/b1f9db47-f335-420f-a9d4-24b78fab266c)# Ex-09-Data-Visualization-
+# Ex-09-Data-Visualization-
 
 
 ## AIM
