@@ -1,13 +1,14 @@
-# Ex-09-Data-Visualization-
+# Ex NO : 09 Data Visualization - II 
 
+## DATE :
 
-## AIM
+## AIM:
 To Perform Data Visualization on a complex dataset and save the data to a file. 
 
-## Explanation
+## Explanation :
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-## ALGORITHM
+## ALGORITHM :
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -18,7 +19,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 
-## CODE
+## CODE :
 DEVELOPED BY : YUGENDARAN.G
 
 REGISTER NO : 212221220063
