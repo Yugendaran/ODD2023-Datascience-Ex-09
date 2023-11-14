@@ -94,9 +94,9 @@ plt.show()
 
 ## OUPUT:
 
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/474cc567-4b9c-4f9a-8d74-0cffd9d9d775)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/70388137-9f0d-4a9e-9944-4d7d32837014)
-![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/b67b5365-4a51-48fd-b49f-cd4a1b62915e)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/2bc5235b-6898-4a38-b433-0058ade920da)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/53106ab2-654b-4c3d-ba9a-0fe3f5f16413)
+![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/a1d15c62-e565-407a-aedc-f406f3b46db0)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/bd89098f-28f0-47ce-abd1-abc0273f7a21)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/34e8bcc1-0676-4d10-9333-3d5da56c5fc9)
 ![image](https://github.com/Yugendaran/ODD2023-Datascience-Ex-09/assets/128135616/50b118e0-c3a8-4397-8733-c87136d95d0f)
